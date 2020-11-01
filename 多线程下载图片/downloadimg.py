@@ -1,5 +1,6 @@
 # coding = utf-8
-
+# Authon : m1n9yu3
+# time : 2020.10.28
 """
 https://www.doutula.com/photo/list/?page=页数
 """
